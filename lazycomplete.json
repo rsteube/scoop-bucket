@@ -1,0 +1,22 @@
+{
+    "version": "0.0.11",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/rsteube/lazycomplete/releases/download/v0.0.11/lazycomplete_0.0.11_Windows_i386.tar.gz",
+            "bin": [
+                "lazycomplete.exe"
+            ],
+            "hash": "14ee5f614ca2e6d484572f13d89b35550ac8a94261160f69c5a4cc2c01bdcb5c"
+        },
+        "64bit": {
+            "url": "https://github.com/rsteube/lazycomplete/releases/download/v0.0.11/lazycomplete_0.0.11_Windows_x86_64.tar.gz",
+            "bin": [
+                "lazycomplete.exe"
+            ],
+            "hash": "bfd994fd3b1f7b26c4c40bf8196aaf400a9a636d6f32269568c829f837591233"
+        }
+    },
+    "homepage": "https://github.com/rsteube/lazycomplete",
+    "license": "MIT",
+    "description": "lazy loading for shell completion scripts"
+}

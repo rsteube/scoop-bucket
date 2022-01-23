@@ -1,0 +1,22 @@
+{
+    "version": "0.1.11",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/rsteube/go-jira-cli/releases/download/v0.1.11/gj_0.1.11_Windows_i386.tar.gz",
+            "bin": [
+                "gj.exe"
+            ],
+            "hash": "96c2e05d4bac33b3dd158f9ecd5ef708845fd536dd3f3e620be835139a4ae34c"
+        },
+        "64bit": {
+            "url": "https://github.com/rsteube/go-jira-cli/releases/download/v0.1.11/gj_0.1.11_Windows_x86_64.tar.gz",
+            "bin": [
+                "gj.exe"
+            ],
+            "hash": "4e7c35c46d4f2fbf666cffc6c8c6079056e42777cca0518c42d664bd68b77cd6"
+        }
+    },
+    "homepage": "https://github.com/rsteube/go-jira-cli",
+    "license": "MIT",
+    "description": "simple jira command line client"
+}

@@ -1,19 +1,19 @@
 {
-    "version": "0.12.1",
+    "version": "0.12.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/rsteube/carapace-bin/releases/download/v0.12.1/carapace-bin_0.12.1_Windows_i386.tar.gz",
+            "url": "https://github.com/rsteube/carapace-bin/releases/download/v0.12.2/carapace-bin_0.12.2_Windows_i386.tar.gz",
             "bin": [
                 "carapace.exe"
             ],
-            "hash": "8443b847f487b69ed4995d82fb21b9d52c687f26f1ba138d67fd2ea379db0c5f"
+            "hash": "981ce3df31cc89eb5b49c6b62d88603f6fd9d93da65725f31fc06c4d8899542b"
         },
         "64bit": {
-            "url": "https://github.com/rsteube/carapace-bin/releases/download/v0.12.1/carapace-bin_0.12.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/rsteube/carapace-bin/releases/download/v0.12.2/carapace-bin_0.12.2_Windows_x86_64.tar.gz",
             "bin": [
                 "carapace.exe"
             ],
-            "hash": "1997bd18a1566e9e5ffed3ed089f2327d3a9c06e81c1a581fa93a4058684eec3"
+            "hash": "5adf71cfd45c8fffa368ccb927705cd27634e39c81979ee61c820923ba41b9f4"
         }
     },
     "homepage": "https://github.com/rsteube/carapace-bin",

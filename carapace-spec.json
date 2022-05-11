@@ -1,0 +1,22 @@
+{
+    "version": "0.0.21",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/rsteube/carapace-spec/releases/download/v0.0.21/carapace-spec_0.0.21_Windows_i386.tar.gz",
+            "bin": [
+                "carapace-spec.exe"
+            ],
+            "hash": "bcdd38cbaedf2fe78426cf962121a2965f1e06bb3899e3a352acceb66483c479"
+        },
+        "64bit": {
+            "url": "https://github.com/rsteube/carapace-spec/releases/download/v0.0.21/carapace-spec_0.0.21_Windows_x86_64.tar.gz",
+            "bin": [
+                "carapace-spec.exe"
+            ],
+            "hash": "de4fd128f0621714647340d25db8dbc95cb64268ac957b505d959ba4544c1fd0"
+        }
+    },
+    "homepage": "https://github.com/rsteube/carapace-spec",
+    "license": "MIT",
+    "description": "define simple carapace completions using a spec file"
+}

@@ -1,19 +1,19 @@
 {
-    "version": "0.2.3",
+    "version": "0.2.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/rsteube/go-jira-cli/releases/download/v0.2.3/gj_0.2.3_Windows_i386.tar.gz",
+            "url": "https://github.com/rsteube/go-jira-cli/releases/download/v0.2.4/gj_0.2.4_Windows_i386.tar.gz",
             "bin": [
                 "gj.exe"
             ],
-            "hash": "adadbffe6f2e5209bb2b631080f73dd95fff68ecebbd76198db0b1b66dec9675"
+            "hash": "f7a7dd1842d542194d2360a541661e73b941df07f010719817bee53017831aa6"
         },
         "64bit": {
-            "url": "https://github.com/rsteube/go-jira-cli/releases/download/v0.2.3/gj_0.2.3_Windows_x86_64.tar.gz",
+            "url": "https://github.com/rsteube/go-jira-cli/releases/download/v0.2.4/gj_0.2.4_Windows_x86_64.tar.gz",
             "bin": [
                 "gj.exe"
             ],
-            "hash": "bad5d7d984a6cf9cad1ddef46e8a56b5795adcb617defa775f20ec33a370513f"
+            "hash": "736bd3554f4868cd42a60d156c41d29947ff7f1e781ee97a3204b17b80a539df"
         }
     },
     "homepage": "https://github.com/rsteube/go-jira-cli",

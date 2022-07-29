@@ -1,19 +1,19 @@
 {
-    "version": "0.0.13",
+    "version": "0.0.18",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/rsteube/lazycomplete/releases/download/v0.0.13/lazycomplete_0.0.13_Windows_i386.tar.gz",
+            "url": "https://github.com/rsteube/lazycomplete/releases/download/v0.0.18/lazycomplete_0.0.18_Windows_i386.tar.gz",
             "bin": [
                 "lazycomplete.exe"
             ],
-            "hash": "52378418c14a559b767c0c8e95891b3ed718118ccede22c42c7a96d11e53b8af"
+            "hash": "77fecaa43a54e118694e927337e055cc9ae7a5c6831d2672d8168c276025ff6d"
         },
         "64bit": {
-            "url": "https://github.com/rsteube/lazycomplete/releases/download/v0.0.13/lazycomplete_0.0.13_Windows_x86_64.tar.gz",
+            "url": "https://github.com/rsteube/lazycomplete/releases/download/v0.0.18/lazycomplete_0.0.18_Windows_x86_64.tar.gz",
             "bin": [
                 "lazycomplete.exe"
             ],
-            "hash": "b86f6810b345ff0ecde64043312e15f7feaf9263116c3df5a947a4bf05a6636b"
+            "hash": "db8696201f1206a861cc9e17546676c20be0e6e5980378359c0037c3036469d4"
         }
     },
     "homepage": "https://github.com/rsteube/lazycomplete",

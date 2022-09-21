@@ -1,19 +1,19 @@
 {
-    "version": "0.0.22",
+    "version": "0.1.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/rsteube/carapace-spec/releases/download/v0.0.22/carapace-spec_0.0.22_Windows_i386.tar.gz",
+            "url": "https://github.com/rsteube/carapace-spec/releases/download/v0.1.0/carapace-spec_0.1.0_Windows_i386.tar.gz",
             "bin": [
                 "carapace-spec.exe"
             ],
-            "hash": "8fc2bf672055c428a6079480779c7e0336c5378222856c44f2957086b343ba31"
+            "hash": "b31f4717fc5c114aa10c0976ce0bfb22c40f80bded478739de28ca055ccb6506"
         },
         "64bit": {
-            "url": "https://github.com/rsteube/carapace-spec/releases/download/v0.0.22/carapace-spec_0.0.22_Windows_x86_64.tar.gz",
+            "url": "https://github.com/rsteube/carapace-spec/releases/download/v0.1.0/carapace-spec_0.1.0_Windows_x86_64.tar.gz",
             "bin": [
                 "carapace-spec.exe"
             ],
-            "hash": "fe4b0b585aff82d6f82d648730348f636d3783fa103c55e44a30e65029955598"
+            "hash": "0021f6178a2baa5488ebee55dbd6aba06391b4afe73bc4037b05ea7085d82cb1"
         }
     },
     "homepage": "https://github.com/rsteube/carapace-spec",

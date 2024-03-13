@@ -1,29 +1,29 @@
 {
-    "version": "0.30.2",
+    "version": "1.0.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/rsteube/carapace-bin/releases/download/v0.30.2/carapace-bin_windows_386.zip",
+            "url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.0.0/carapace-bin_windows_386.zip",
             "bin": [
                 "carapace.exe"
             ],
-            "hash": "07603a47ca6a5a3ae5ab8375c1eb8920147bc5f3c02a0336e37b9af9503858ff"
+            "hash": "a30443c92ac44ecce7795de842f6bb55bc26a8115c7411ee9d1bfccbac769585"
         },
         "64bit": {
-            "url": "https://github.com/rsteube/carapace-bin/releases/download/v0.30.2/carapace-bin_windows_amd64.zip",
+            "url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.0.0/carapace-bin_windows_amd64.zip",
             "bin": [
                 "carapace.exe"
             ],
-            "hash": "bbd7bc5a00990ecb754bc8522c30d343145824bb41569f12fa57b067b6836a1c"
+            "hash": "9dd06467467547d07cb12011a78f6dbfc1787de251788663e450522b2472a323"
         },
         "arm64": {
-            "url": "https://github.com/rsteube/carapace-bin/releases/download/v0.30.2/carapace-bin_windows_arm64.zip",
+            "url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.0.0/carapace-bin_windows_arm64.zip",
             "bin": [
                 "carapace.exe"
             ],
-            "hash": "84cafad8e22cb9cd6150b4a93f79a03537ef1efea5d2ec096d40c238ad81bd2c"
+            "hash": "afb178e87822c7ce97c85332f642a17745d90fbae0df25e6e5c4bd1fd37a26f5"
         }
     },
-    "homepage": "https://github.com/rsteube/carapace-bin",
+    "homepage": "https://github.com/carapace-sh/carapace-bin",
     "license": "MIT",
     "description": "multi-shell multi-command argument completer"
 }

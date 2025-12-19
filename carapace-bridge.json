@@ -1,26 +1,26 @@
 {
-    "version": "1.4.10",
+    "version": "1.4.11",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/carapace-sh/carapace-bridge/releases/download/v1.4.10/carapace-bridge_1.4.10_windows_386.zip",
+            "url": "https://github.com/carapace-sh/carapace-bridge/releases/download/v1.4.11/carapace-bridge_1.4.11_windows_386.zip",
             "bin": [
                 "carapace-bridge.exe"
             ],
-            "hash": "f2daa86bec69de39139b9382367c9e550ba41c79a94af696a5237552e388c883"
+            "hash": "1b821a46d4446884cd3a0eeec4ea26e699602787ca05da7d91b6bc02932fb185"
         },
         "64bit": {
-            "url": "https://github.com/carapace-sh/carapace-bridge/releases/download/v1.4.10/carapace-bridge_1.4.10_windows_amd64.zip",
+            "url": "https://github.com/carapace-sh/carapace-bridge/releases/download/v1.4.11/carapace-bridge_1.4.11_windows_amd64.zip",
             "bin": [
                 "carapace-bridge.exe"
             ],
-            "hash": "a02b65f5348639e603a452b69ec6c9db646cec220dd5e1522079c01d9fc901ba"
+            "hash": "b9020f5d8a99d84ef192770b9071d2a4af49bfe5aa2601a0a1df701e18e52dc6"
         },
         "arm64": {
-            "url": "https://github.com/carapace-sh/carapace-bridge/releases/download/v1.4.10/carapace-bridge_1.4.10_windows_arm64.zip",
+            "url": "https://github.com/carapace-sh/carapace-bridge/releases/download/v1.4.11/carapace-bridge_1.4.11_windows_arm64.zip",
             "bin": [
                 "carapace-bridge.exe"
             ],
-            "hash": "694e837d97bccca76d8a429cd96be3a390d05ae3dd8ab56780988ec1b33fbcf6"
+            "hash": "5d61479f8738f468bcb3326d48246bc87345b08a3a8d7295c843cf62f902af64"
         }
     },
     "homepage": "https://github.com/carapace-sh/carapace-bridge",

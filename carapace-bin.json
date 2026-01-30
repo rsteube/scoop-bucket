@@ -1,26 +1,26 @@
 {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.6.0/carapace-bin_1.6.0_windows_386.zip",
+            "url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.6.1/carapace-bin_1.6.1_windows_386.zip",
             "bin": [
                 "carapace.exe"
             ],
-            "hash": "7097a948b73b31755651a3c261c63640bd832377fb630b3410c14af3a9e79f48"
+            "hash": "1ad8aba97d6c5059e20b6846259ba5d6934c4202ab75e8205042d130a8a193af"
         },
         "64bit": {
-            "url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.6.0/carapace-bin_1.6.0_windows_amd64.zip",
+            "url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.6.1/carapace-bin_1.6.1_windows_amd64.zip",
             "bin": [
                 "carapace.exe"
             ],
-            "hash": "629de065a55c4a4844ba1cf9b99b24b2b27f0a49ede29a7e58906992397f9708"
+            "hash": "d976da9a0d49275467fe0980e50695e3f5f4fd2db36b9d31438700abe6083250"
         },
         "arm64": {
-            "url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.6.0/carapace-bin_1.6.0_windows_arm64.zip",
+            "url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.6.1/carapace-bin_1.6.1_windows_arm64.zip",
             "bin": [
                 "carapace.exe"
             ],
-            "hash": "e2462da7fe60dafa821f64a0d6e92817da9f817c0d6b9228e13edacf985cb71c"
+            "hash": "71454fa71ba2f2b3cb9814e017ffcfdb658387b9609618fef5a98b09d010e2e3"
         }
     },
     "homepage": "https://github.com/carapace-sh/carapace-bin",

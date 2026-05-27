@@ -1,26 +1,26 @@
 {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/carapace-sh/carapace-spec/releases/download/v1.5.2/carapace-spec_1.5.2_windows_386.zip",
+            "url": "https://github.com/carapace-sh/carapace-spec/releases/download/v1.5.3/carapace-spec_1.5.3_windows_386.zip",
             "bin": [
                 "carapace-spec.exe"
             ],
-            "hash": "12ea8247b779337cf954faedd20205bac5f834d71ba5ad0ac46df040630063f2"
+            "hash": "a83246461cf77d6c57191a8a4170c17db28ffa8b50f4055ea65b6585cd1391b1"
         },
         "64bit": {
-            "url": "https://github.com/carapace-sh/carapace-spec/releases/download/v1.5.2/carapace-spec_1.5.2_windows_amd64.zip",
+            "url": "https://github.com/carapace-sh/carapace-spec/releases/download/v1.5.3/carapace-spec_1.5.3_windows_amd64.zip",
             "bin": [
                 "carapace-spec.exe"
             ],
-            "hash": "9439af332961d5ab9f3b1dc9fa403c7da6865fd0d8cf7f5d90c7db5bebcc5cdc"
+            "hash": "12b8c7e23acf6d3cb1e6dc837e56397d6b95699eb55893315cb76830a835bdae"
         },
         "arm64": {
-            "url": "https://github.com/carapace-sh/carapace-spec/releases/download/v1.5.2/carapace-spec_1.5.2_windows_arm64.zip",
+            "url": "https://github.com/carapace-sh/carapace-spec/releases/download/v1.5.3/carapace-spec_1.5.3_windows_arm64.zip",
             "bin": [
                 "carapace-spec.exe"
             ],
-            "hash": "e2061b2f81cdd5b520ed37d951afc81b996df6a01fb0b97f0be5633ff28483b3"
+            "hash": "4edacaf06f0fc984df39f35f377e3cef2c0faf07786787a18485c59c2b3f6baa"
         }
     },
     "homepage": "https://github.com/rsteube/carapace-spec",

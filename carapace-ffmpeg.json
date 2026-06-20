@@ -1,32 +1,32 @@
 {
-    "version": "0.0.7",
+    "version": "0.0.8",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/carapace-sh/carapace-ffmpeg/releases/download/v0.0.7/carapace-ffmpeg_0.0.7_windows_386.zip",
+            "url": "https://github.com/carapace-sh/carapace-ffmpeg/releases/download/v0.0.8/carapace-ffmpeg_0.0.8_windows_386.zip",
             "bin": [
                 "carapace-ffmpeg.exe",
                 "carapace-ffplay.exe",
                 "carapace-ffprobe.exe"
             ],
-            "hash": "27b68a45eee77b179803ce9c5bf238bba11a952875140eb8333c09ccfae3ada7"
+            "hash": "156a01811f0c5add518eaf8e102322764067ba832c03601fa90def1f74b59e05"
         },
         "64bit": {
-            "url": "https://github.com/carapace-sh/carapace-ffmpeg/releases/download/v0.0.7/carapace-ffmpeg_0.0.7_windows_amd64.zip",
+            "url": "https://github.com/carapace-sh/carapace-ffmpeg/releases/download/v0.0.8/carapace-ffmpeg_0.0.8_windows_amd64.zip",
             "bin": [
                 "carapace-ffmpeg.exe",
                 "carapace-ffplay.exe",
                 "carapace-ffprobe.exe"
             ],
-            "hash": "702e17d4429755fcc7dad50f401df3a7085c3e36830e549ab744b745d311c14b"
+            "hash": "7e95c6ede3d4d886d0c05006e696607a8f48c37f5300133c19c4afcfbc19ca11"
         },
         "arm64": {
-            "url": "https://github.com/carapace-sh/carapace-ffmpeg/releases/download/v0.0.7/carapace-ffmpeg_0.0.7_windows_arm64.zip",
+            "url": "https://github.com/carapace-sh/carapace-ffmpeg/releases/download/v0.0.8/carapace-ffmpeg_0.0.8_windows_arm64.zip",
             "bin": [
                 "carapace-ffmpeg.exe",
                 "carapace-ffplay.exe",
                 "carapace-ffprobe.exe"
             ],
-            "hash": "1b4f95d66482b59533906c8696edb8d5076aeac510148250020687e0c7d7fb22"
+            "hash": "20fb7706a0c0d74b3aab5e7b5fdf7b9f12e1a364063eecbfb6e84112344ff530"
         }
     },
     "homepage": "https://github.com/carapace-sh/carapace-ffmpeg",

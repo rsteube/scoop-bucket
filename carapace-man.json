@@ -1,26 +1,26 @@
 {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/carapace-sh/carapace-man/releases/download/v0.0.4/carapace-man_0.0.4_windows_386.zip",
+            "url": "https://github.com/carapace-sh/carapace-man/releases/download/v0.0.5/carapace-man_0.0.5_windows_386.zip",
             "bin": [
                 "carapace-man.exe"
             ],
-            "hash": "4e05ec3eda74068fe7c6e5bd389e20829829529660ab73d67848625be18f1a98"
+            "hash": "3223817aae37658b282c2686b8b838c947edfcfbb8dfabd1e6bd7a381dbafdd0"
         },
         "64bit": {
-            "url": "https://github.com/carapace-sh/carapace-man/releases/download/v0.0.4/carapace-man_0.0.4_windows_amd64.zip",
+            "url": "https://github.com/carapace-sh/carapace-man/releases/download/v0.0.5/carapace-man_0.0.5_windows_amd64.zip",
             "bin": [
                 "carapace-man.exe"
             ],
-            "hash": "25641854ae2b66821767807713177e230ec1dc9e3d49431b67990fc4c187c7b8"
+            "hash": "9d530a2163d2d246295f2eefd2fee82299f1c50ac6f7d74db252531a9ac5c8f5"
         },
         "arm64": {
-            "url": "https://github.com/carapace-sh/carapace-man/releases/download/v0.0.4/carapace-man_0.0.4_windows_arm64.zip",
+            "url": "https://github.com/carapace-sh/carapace-man/releases/download/v0.0.5/carapace-man_0.0.5_windows_arm64.zip",
             "bin": [
                 "carapace-man.exe"
             ],
-            "hash": "9118c972d3bc265f04b4825de9203db67cbfdc087a77c3f09122c30131ec5598"
+            "hash": "23d85067c9f7aea42eb570f629e78371dbb5b9f3ca9f2643cd587c808e1c498b"
         }
     },
     "homepage": "https://github.com/carapace-sh/carapace-man",
